@@ -1,0 +1,23 @@
+{
+  "name": "@romaisakhurram/student_management_system",
+  "version": "1.0.0",
+  "description": "it is a store data",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.11"
+  }
+}
